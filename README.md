@@ -1,3 +1,24 @@
-# Sales Operations Data Validation & Performance Dashboard
+Sales Operations Data Validation & Performance Dashboard
+--------------------------------------------------------
+--------------------------------------------------------
 
-Microsoft Excel based sales operations analysis project focused on data validation, operational reporting, KPI analysis, PivotTables, and dashboard development using fictional data.
+Project Overview
+
+An Excel based operations reporting and data validation project developed using fictional business data to demonstrate practical skills in data preparation, validation, operational reporting, PivotTable analysis, and dashboard development.
+This project simulates an operational environment where structured records need to be reviewed, summarized, and converted into management ready insights.
+
+The analysis focuses on department level operational status and provides a foundation for KPI reporting and dashboard based monitoring.
+
+# Note: All data used in this project is fictional and created for learning purposes. It does not represent any real world confidential business information at all.
+
+Business Objectives
+-------------------
+
+The objective of the project is to demonstrate how Microsoft Excel can be used to:
+  i. Structure and manage operational records.
+  ii. Validate and review business data for accuracy.
+  iii. Summarize operational activity using PivotTables.
+  iv. Analyze status distribution across departments.
+  v. Develop management oriented visual reporting.
+  vi. Present operational information through an Excel dashboard.
+  vii. Support data driven review of operational workload and process status.
