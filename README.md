@@ -1,4 +1,4 @@
-# Sales Operations Data Validation & Performance Dashboard
+# Operations Data Validation & Performance Dashboard
 ----------------------------------------------------------
 
 
