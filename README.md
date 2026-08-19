@@ -1,13 +1,19 @@
 # Operations Data Validation & Performance Dashboard
 ----------------------------------------------------------
 
-
-Project Overview
-
-An Excel based operations reporting and data validation project developed using fictional business data to demonstrate practical skills in data preparation, validation, operational reporting, PivotTable analysis, and dashboard development.
-This project simulates an operational environment where structured records need to be reviewed, summarized, and converted into management ready insights.
+An Excel-based operations reporting project focused on data validation, reconciliation, PivotTable analysis, KPI reporting, and dashboard visualization using a fictional dataset of 80 operational records.
 
 The analysis focuses on department level operational status and provides a foundation for KPI reporting and dashboard based monitoring.
+
+Project Overview
+----------------
+
+This project simulates an operational reporting workflow in Microsoft Excel. 
+
+The objective was to organize and validate structured operational records, identify data consistency issues through reconciliation, summarize operational activity using PivotTables, and present key findings through an Excel dashboard.
+
+The project focuses on data quality and operational reporting, rather than sales or revenue analysis.
+
 
 # Note: All data used in this project is fictional and created for learning purposes. It does not represent any real world confidential business information at all.
 
